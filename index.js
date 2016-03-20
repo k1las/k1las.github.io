@@ -6,7 +6,8 @@ var game = createGame({
         ['grass', 'dirt', 'grass_dirt'],
         'dirt',
         'obsidian',
-        'plank'
+        'plank',
+        'glass'
     ],
     texturePath: './textures/',
 });

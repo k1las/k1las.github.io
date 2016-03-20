@@ -82,6 +82,7 @@ nav.bar-tab li:nth-child(1) { background-image: url('textures/grass.png'); }
 nav.bar-tab li:nth-child(2) { background-image: url('textures/dirt.png'); }
 nav.bar-tab li:nth-child(3) { background-image: url('textures/obsidian.png'); }
 nav.bar-tab li:nth-child(4) { background-image: url('textures/plank.png'); }
+nav.bar-tab li:nth-child(5) { background-image: url('textures/glass.png'); }
 
 /* Share */
 .voxel-share {

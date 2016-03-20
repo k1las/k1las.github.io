@@ -4621,7 +4621,8 @@ var game = createGame({
         ['grass', 'dirt', 'grass_dirt'],
         'dirt',
         'obsidian',
-        'plank'
+        'plank',
+        'glass'
     ],
     texturePath: './textures/',
 });
@@ -49562,6 +49563,9 @@ function defaultSetup(game, avatar) {
                 break;
             case 'plank':
                 currentMaterial = 5;
+                break;
+            case 'glass':
+                currentMaterial = 6;
                 break;
         }
     });
